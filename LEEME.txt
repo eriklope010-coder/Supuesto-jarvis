@@ -1,0 +1,9 @@
+JARVIS iPHONE - FUNCIONES SIN SERVIDOR
+
+Sube index.html, style.css, app.js, local.js, icon.svg, manifest.webmanifest y sw.js a la raíz de GitHub Pages. Abre la URL HTTPS en Safari y elige Compartir > Añadir a pantalla de inicio.
+
+Sin IA: cálculos, chistes, vaciladas, piropos, consejos, hora, fecha, curiosidades, ánimo, memoria local y abrir enlaces a apps. Funciona por teclado. El micrófono depende de la compatibilidad del navegador y puede no estar disponible en Safari iOS. Abrir apps significa abrir sus webs, no controlar apps instaladas.
+
+Ejemplos: calcula (25+5)*3, cuánto es 8 por 7, cuéntame un chiste, vacílame, dime un piropo, dame un consejo, qué hora es, abre YouTube.
+
+La IA externa es OPCIONAL en ajustes. Para funciones básicas no hace falta servidor ni clave.
